@@ -27,6 +27,6 @@
    <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=rooparam01&theme=dark" /> <br \>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rooparam01&show_icons=true&theme=dark"/>
    <br>
-   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rooparam01&theme=xcode">
+   <img align="center" src="">
    <img align="center" src="https://github-profile-trophy.vercel.app/?username=rooparam01&theme=monokai&row=1&column=4">
 </p>
