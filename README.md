@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2Tta4%2Fe%2FTqeNvs%2Bl3kt83g%3D%3D" target="blank"><img align="center" src="https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2Tta4%2Fe%2FTqeNvs%2Bl3kt83g%3D%3D" alt="[https://www.linkedin.com/in/roopa-ram-b5335613a/](https://www.linkedin.com/in/roopa-ram-b5335613a/)" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/roopa-ram-b5335613a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roopa-ram-b5335613a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
