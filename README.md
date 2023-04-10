@@ -25,7 +25,11 @@
 <br/>
 <p align="center">
    <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=rooparam01&theme=dark" /> <br \>
+   <br>
+   <br>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rooparam01&show_icons=true&theme=dark"/>
+   <br>
+   <br>
   <br>
    <img align="center" src="https://github-profile-trophy.vercel.app/?username=rooparam01&theme=monokai&row=1&column=4">
 </p>
