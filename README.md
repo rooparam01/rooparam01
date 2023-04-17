@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, Spring, Hibernate and SQL**
 
-- 👨‍💻 Want to know more about me? Checkout <a href="rooparam01.github.io">PortFolio</a> and [Resume](https://drive.google.com/file/d/17e1Xp0lcDd_iPcSahRMAbHVOLrE0xl7-/view?usp=share_link)
+- 👨‍💻 Want to know more about me? Checkout <a href="https://rooparam01.github.io/">PortFolio</a> and [Resume](https://drive.google.com/file/d/17e1Xp0lcDd_iPcSahRMAbHVOLrE0xl7-/view?usp=share_link)
 
 - 💬 Ask me about **Backend, Java, Spring, RestApi**
 
