@@ -45,12 +45,13 @@
         <img src="https://skillicons.dev/icons?i=idea" alt="icon" width="48" height="48" />
       <br>idea
     </td>
-       
-  <tr>
-  <td align="center" width="96"> 
+       <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
-    </td>
+    </td> 
+  </tr>
+  <tr>
+ 
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>Github
