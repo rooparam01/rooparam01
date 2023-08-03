@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **Java, Spring, Hibernate and SQL** - 👨‍💻 Want to
 know more about me? Checkout
 <a href="https://rooparam01.github.io/">PortFolio</a> and
-[Resume](https://drive.google.com/file/d/17e1Xp0lcDd_iPcSahRMAbHVOLrE0xl7-/view?usp=share_link)
+[Resume](https://drive.google.com/file/d/1pmCQ6PdU0i3kf-6fYFeCxWvNdCI0JIjD/view?usp=sharing)
 - 💬 Ask me about **Backend, Java, Spring, RestApi** - 📫 How to reach me
 **rrjakher@gmail.com**
 
